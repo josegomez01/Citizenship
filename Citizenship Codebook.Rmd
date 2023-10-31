@@ -1,0 +1,15 @@
+---
+title: "Data USA"
+output: html_document
+date: "2023-10-31"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+URL : https://datausa.io/profile/geo/corona-ca Author codebook: Jose Gomez Title: Data in USA 2021, the data explain the year that each data was collected, the location of the population, the citizenship that the population had, the amount of population each year had, and percentage amount of the citizen population.
+Year- year that data was collected
+Geography- location where the data was obtain
+Citizenship- the people citizen status
+Citizenship status- amount of population got
+Citizenship %- the porcentage of the population collected
